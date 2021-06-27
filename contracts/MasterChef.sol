@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at polygonscan.com on 2021-06-09
-*/
-
 // File: @openzeppelin/contracts/math/SafeMath.sol
 
 
