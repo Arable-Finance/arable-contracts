@@ -6,7 +6,7 @@ Arable.Finance Feel free to read the code. More details coming soon.
 
 ### MUMBAI
 
-- yARABLEToken - 
+- Arabella- 
 - MasterChef - 
 - Timelock - 
 - MultiCall - 
